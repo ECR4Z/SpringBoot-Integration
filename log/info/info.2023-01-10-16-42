@@ -1,0 +1,9 @@
+2023-01-10 16:42:24-[INFO:]-(org.springframework.boot.StartupInfoLogger:55) Starting Slf4jApplication using Java 1.8.0_221 on DESKTOP-IOI4DOA with PID 55472 (D:\ECRZ\Project\Java\SpringBoot-Integration\SpringBoot-slf4j\target\classes started by 86943 in D:\ECRZ\Project\Java\SpringBoot-Integration)
+2023-01-10 16:42:24-[INFO:]-(org.springframework.boot.SpringApplication:634) No active profile set, falling back to 1 default profile: "default"
+2023-01-10 16:42:24-[INFO:]-(org.springframework.boot.web.embedded.tomcat.TomcatWebServer:108) Tomcat initialized with port(s): 8888 (http)
+2023-01-10 16:42:24-[INFO:]-(org.apache.juli.logging.DirectJDKLog:173) Starting service [Tomcat]
+2023-01-10 16:42:24-[INFO:]-(org.apache.juli.logging.DirectJDKLog:173) Starting Servlet engine: [Apache Tomcat/9.0.64]
+2023-01-10 16:42:25-[INFO:]-(org.apache.juli.logging.DirectJDKLog:173) Initializing Spring embedded WebApplicationContext
+2023-01-10 16:42:25-[INFO:]-(org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:292) Root WebApplicationContext: initialization completed in 864 ms
+2023-01-10 16:42:25-[INFO:]-(org.springframework.boot.web.embedded.tomcat.TomcatWebServer:220) Tomcat started on port(s): 8888 (http) with context path ''
+2023-01-10 16:42:25-[INFO:]-(org.springframework.boot.StartupInfoLogger:61) Started Slf4jApplication in 1.611 seconds (JVM running for 2.857)

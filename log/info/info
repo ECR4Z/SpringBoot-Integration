@@ -1,0 +1,7 @@
+2023-01-10 16:54:27-[INFO:]-(org.apache.juli.logging.DirectJDKLog:173) Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-10 16:54:27-[INFO:]-(org.springframework.web.servlet.FrameworkServlet:525) Initializing Servlet 'dispatcherServlet'
+2023-01-10 16:54:27-[INFO:]-(org.springframework.web.servlet.FrameworkServlet:547) Completed initialization in 1 ms
+2023-01-10 16:54:27-[INFO:]-(com.ming.slf4j.controller.LogController:21) ======测试日志info级别打印=====
+2023-01-10 16:54:27-[ERROR:]-(com.ming.slf4j.controller.LogController:22) =====测试日志error级别打印====
+2023-01-10 16:54:27-[WARN:]-(com.ming.slf4j.controller.LogController:23) ======测试日志warn级别打印=====
+2023-01-10 16:54:27-[INFO:]-(com.ming.slf4j.controller.LogController:28) ======这是用占位符输出的日志

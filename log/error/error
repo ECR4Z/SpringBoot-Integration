@@ -1,0 +1,4 @@
+2023-01-10 16:33:47-[ERROR]-(com.ming.slf4j.controller.LogController:22) =====测试日志error级别打印====
+2023-01-10 16:50:10-[ERROR]-(com.ming.slf4j.controller.LogController:22) =====测试日志error级别打印====
+2023-01-10 16:53:16-[ERROR]-(com.ming.slf4j.controller.LogController:22) =====测试日志error级别打印====
+2023-01-10 16:54:27-[ERROR]-(com.ming.slf4j.controller.LogController:22) =====测试日志error级别打印====
